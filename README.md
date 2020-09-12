@@ -1,4 +1,4 @@
-# neural_transfer_style
+# Neural Style Transfer using Deep Learning
 Transfer painting styles to chosen images.
 
 This project reproduces the paper "A Neural Algorithm of Artistic Style" by Gatys et al. (https://arxiv.org/abs/1508.06576).
